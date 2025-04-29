@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-express-practice",
+  "version": "1.0.0",
+  "description": "\"# my-node-app\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seth0-0in/nodejs-express-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seth0-0in/nodejs-express-practice/issues"
+  },
+  "homepage": "https://github.com/seth0-0in/nodejs-express-practice#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
